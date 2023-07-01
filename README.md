@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
 <h3 align="center">A new programmer in this world</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redfox193" alt="redfox193" /></a> </p>
-
 - 🔭 I’m currently working on [Omori Jumper](https://github.com/redfox193/Omori-Jumper-Beta)
 
 - 🌱 I’m currently learning **Python and everything about Web development**
