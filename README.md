@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
 <h3 align="center">A new programmer in this world</h3>
 
-- 🔭 I’m currently working on [Omori Jumper](https://github.com/redfox193/Omori-Jumper-Beta)
-
-- 🌱 I’m currently learning **Python and everything about Web development**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/redfox193](https://github.com/redfox193)
 
