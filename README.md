@@ -34,4 +34,6 @@
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sqlite" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github actions" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="github actions" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-redis-4-1175103.png?f=webp" alt="github actions" width="40" height="40"/>
 </p>
