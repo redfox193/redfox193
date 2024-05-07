@@ -38,3 +38,5 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-redis-4-1175103.png?f=webp" alt="github actions" width="40" height="40"/>
   <img src="https://pbs.twimg.com/profile_images/1223261138059780097/eH73w5lN_400x400.jpg" alt="rabbitmq" width="40" height="40"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redfox193&hide=html,css,tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
