@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">A new programmer in this world</h3>
+<h3 align="center">Python backend developer</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend and other stuff**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/redfox193](https://github.com/redfox193)**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://t.me/redfox193**
 
-- ⚡ Fun fact **I want to write a book :0**
+- ⚡ Fun fact **I want to write a visual novel :0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
